@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Devlopment 
 - 🌱 I’m currently learning DSA with Striver's AtoZ sheet.
 - 💞️ I’m looking to collaborate on peoples who are good at web technologies or software devlopment relatesd fields.
-- 📫 How to reach me .https://www.linkedin.com/in/deepanshu-rathore-25a868226/
+- 📫 How to reach me .https://www.linkedin.com/in/deepanshu-rathore/
 
 <!---
 Deepanshu-975/Deepanshu-975 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
