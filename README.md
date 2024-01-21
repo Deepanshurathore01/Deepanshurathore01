@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Mern Stack**
 - 💬 Ask me about **React, Node, Javascript, C++ , Data Structure and Algorithms**
 - 📫 How to reach me **rathoredeepanshu84@gmail.com**
-- 👨‍💻 All of my projects are available at **https://deepanshurathore01.github.io/MyPortfoli_Web/**
+- 👨‍💻 All of my projects are available at **https://deepanshurathore01.github.io/Deepanshu_Portfolio/**
 - 📝 I regularly write articles on **Linkdine**
 - ⚡ Fun fact **The first computer mouse was made of wood and had two wheels**
 
