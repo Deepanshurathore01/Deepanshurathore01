@@ -1,64 +1,106 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Deepanshu Rathore</h1>
-<h3 align="center"> I’m Passionate in Software Devlopment</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Deepanshurathore01&label=Profile%20views&color=0e75b6&style=flat" alt="Deepanshurathore01" /> </p>
+<h3 align="center">An MCA Student | Passionate about Full Stack Development | Love to Build Amazing Web Apps</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Deepanshurathore01&theme=" alt="Deepanshurathore01" /></a> </p>
-
-- 🔭 I’m currently working on [Portfolio Design](https://deepanshurathore01.github.io/MyPortfoli_Web/)
-- 🌱 I’m currently learning **Mern Stack**
-- 💬 Ask me about **React, Node, Javascript, C++ , Data Structure and Algorithms**
-- 📫 How to reach me **rathoredeepanshu84@gmail.com**
-- 👨‍💻 All of my projects are available at **https://deepanshurathore01.github.io/Deepanshu_Portfolio/**
-- 📝 I regularly write articles on **Linkdine**
-- ⚡ Fun fact **The first computer mouse was made of wood and had two wheels**
-
-<div> <a href="https://twitter.com/Deepanshur_01" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/deepanshu-rathore" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/Deepanshurathore01" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:rathoredeepanshu84@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Deepanshur_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="Deepanshur_01" height="30" width="40" /></a><a href="https://linkedin.com/in/deepanshu-rathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="deepanshu-rathore" height="30" width="40" /></a><a href="https://www.leetcode.com/deepanshur" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="deepanshur" height="30" width="40" /></a><a href="https://discord.gg/deepanshurathore_66532" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="deepanshurathore_66532" height="30" width="40" /></a><a href="https://auth.geeksforgeeks.org/user/deepanshurathore975" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/geeks-for-geeks.svg" alt="deepanshurathore975" height="30" width="40" /></a><a href="https://dev.to/MyPortfoli_Web" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" alt="MyPortfoli_Web" height="30" width="40" /></a></p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Static/nextjs-2.svg" alt="Nextjs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79D11&width=435&lines=Full+Stack+Web+Developer;DSA+Enthusiast;Open+Source+Contributor;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshurathore01&layout=compact&theme=dark" alt=Deepanshurathore01 />
+---
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Deepanshurathore01&show_icons=true&locale=en&theme=" alt="Deepanshurathore01" /></p>
+## 🌟 About Me
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepanshurathore01&theme=" alt="Deepanshurathore01" /></p>
+- 👨‍🎓 I'm currently pursuing **MCA (Master of Computer Applications)** from **Medi-Caps University, Indore**.
+- 🔭 I’m currently working on **a MERN Stack E-Commerce Website** with user authentication and Stripe integration.
+- 🌱 I’m learning **Distributed Systems, Internet of Things, and React Native**.
+- 💡 I love working on **AI-integrated web apps**, real-time features, and UI/UX improvements.
+- ⚡ Fun Fact: I never stop debugging until it works 😉.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/Deepanshurathore01">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deepanshurathore01&theme=algolia" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deepanshurathore01&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deepanshurathore01&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Deepanshurathore01&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepanshurathore01&theme=2077" height="180em" />
-</div>
+---
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+## 🌐 Connect With Me
+<p align="left">
+  <a href="mailto:rathoredeepanshu84@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="30"/></a>
+  <a href="https://www.linkedin.com/in/deepanshurathore01/"><img src="https://img.icons8.com/color/48/linkedin.png" width="30"/></a>
+  <a href="https://deepanshurathore.vercel.app/"><img src="https://img.icons8.com/fluency/48/domain.png" width="30"/></a>
+  <a href="https://twitter.com/deepanshu_0x01"><img src="https://img.icons8.com/color/48/twitter--v1.png" width="30"/></a>
+</p>
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Languages
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+
+### 🛠️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle)
+
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
+
+---
+
+## 📌 Featured Projects
+
+- 🔐 [MERN Auth App](https://github.com/Deepanshurathore01/MERN-Auth-App)  
+  Full-stack authentication app with JWT, bcrypt, and MongoDB.
+
+- 🛒 [E-Commerce Site](https://github.com/Deepanshurathore01/E-commerce-site)  
+  Amazon-like online store using React, Node, Express & MongoDB.
+
+- 📓 [Notes Manager](https://github.com/Deepanshurathore01/Notes-Management-App)  
+  Manage, create, and update your notes efficiently.
+
+- 🌍 [Portfolio Website](https://deepanshurathore01.github.io/MyPortfolio_Web/)  
+  Smooth animated site showcasing my skills, projects & experience.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepanshurathore01&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepanshurathore01&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepanshurathore01&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Deepanshurathore01&theme=darkhub&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepanshurathore01&theme=tokyo-night" />
+</p>
+
+---
+
+_**Thanks for visiting my GitHub! Keep exploring, keep learning 🚀**_
