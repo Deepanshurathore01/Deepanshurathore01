@@ -9,7 +9,7 @@
 
 ## 🌟 About Me
 
-- 👨‍🎓 I'm currently pursuing **MCA (Master of Computer Applications)** from **Medi-Caps University, Indore**.
+- 👨‍🎓 I'm currently pursuing **MCA (Master of Computer Applications)** from **SVIMS, Indore**.
 - 🔭 I’m currently working on **a MERN Stack E-Commerce Website** with user authentication and Stripe integration.
 - 🌱 I’m learning **Distributed Systems, Internet of Things, and React Native**.
 - 💡 I love working on **AI-integrated web apps**, real-time features, and UI/UX improvements.
